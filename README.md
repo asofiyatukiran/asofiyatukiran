@@ -5,7 +5,7 @@ Nice to meet you! I'm a self-taught passionate FrontEnd developer from Malaysia 
 
 ## Find me around the web 🌎:
 
-![Linkedin Badge](https://www.linkedin.com/in/asofiyatukiran/)
+- Let's connect with me on [LinkedIn](https://www.linkedin.com/in/asofiyatukiran/) 💼
 
 
 
