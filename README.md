@@ -1,6 +1,7 @@
 # Hello there 👋
 
-![mine (1)](https://user-images.githubusercontent.com/79184604/230060222-0b7aa157-5f8f-4fcc-b3d9-c23d1be4d6b8.png)
+
+![banner](https://user-images.githubusercontent.com/79184604/230078528-4009ec23-eee5-44ba-9c37-054bac5ce0a4.png)
 
 
 ## About me
