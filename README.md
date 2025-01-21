@@ -6,8 +6,6 @@
 
 ## About me
 
-I'm Sofiya Tukiran. A self-taught passionate FrontEnd developer from Malaysia 🇲🇾 . I'm currently study for Bachelor's in Computer Science. I've previously worked contract as a Software Engineer. My interest is in Machine Learning and Artificial Intelligence ecosystem.
-
 * A Computer Science student and Software Engineer with 1 years of start-up experience mainly in Front-end Developer.
 * Keen in 👩🏼‍💻 User Experience and Interface Design, 👓 Augmented Reality and 🤖 Machine Learning.
 * Find me on [LinkedIn](https://www.linkedin.com/in/asofiyatukiran/) 🤝 
